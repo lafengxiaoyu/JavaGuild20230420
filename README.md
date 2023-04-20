@@ -53,18 +53,10 @@ Although reflection is powerful, it should be used carefully.
 
 ## References:
 [0]http://www.cs.sjsu.edu/~pearce/modules/lectures/oop/types/reflection/reflection.htm
-:wq
-
 [1]https://www.oracle.com/technical-resources/articles/java/javareflection.html
-
 [2]https://www.baeldung.com/java-reflection
-
 [3]https://jenkov.com/tutorials/java-reflection/dynamic-proxies.html
-
 [4]https://beknazarsuranchiyev.medium.com/reflection-annotations-the-powerful-combination-fc404142595b
-
 [5]http://www.cs.sjsu.edu/~pearce/modules/lectures/oop/types/reflection/reflection.htm
-
 [6]https://beknazarsuranchiyev.medium.com/reflection-annotations-the-powerful-combination-fc404142595b
-
 [7]https://www.softwaretestinghelp.com/java/java-reflection/#Drawbacks_Of_Reflection
